@@ -34,4 +34,4 @@ Minimax is a decision rule used in decision theory, game theory, statistics and 
  </ul>
 
 <h4>licence</h4>
-Free to use and re-distribute.Originally implemented in python by Vineet Joshi, @vineetjoshi253.
+This is a free to use and re-distribute.Originally implemented in python by Vineet Joshi, @vineetjoshi253.
