@@ -31,6 +31,7 @@ def User2Turn(board):
     pos=int(pos);
     if(board[pos-1]!=0):
         print("Wrong Move!!!");
+        raise ValueError()
         exit(0);
     board[pos-1]=1;
 
